@@ -1,0 +1,17 @@
+{
+  "roots": [
+    {
+      "key": "50dphu84geeowka9f2sxqeq",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "main",
+      "navExclude": false,
+      "children": []
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "50dphu84geeowka9f2sxqeq": null
+  }
+}
